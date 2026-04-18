@@ -1,1 +1,4 @@
 Hello world
+Line 2 added
+Line 3 added
+Final line
