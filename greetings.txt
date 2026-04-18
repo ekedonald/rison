@@ -5,4 +5,6 @@ Final line
 feature line 1
 feature line 2
 feature line 3
-team update: changed greeting header
+outdated feature line 1
+outdated feature line 2
+outdated feature line 3
