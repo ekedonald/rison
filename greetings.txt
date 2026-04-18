@@ -2,3 +2,6 @@ Hello world
 Line 2 added
 Line 3 added
 Final line
+feature line 1
+feature line 2
+feature line 3
